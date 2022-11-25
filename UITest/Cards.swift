@@ -1,5 +1,5 @@
 //
-//  Lection4.swift
+//  Cards.swift
 //  UITest
 //
 //  Created by Luis Lagos on 16/11/22.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Lection4: View {
+struct Cards: View {
     var body: some View {
         
         // Stack containing the two cards
@@ -67,6 +67,11 @@ struct Lection4: View {
 
 struct Lection4_Previews: PreviewProvider {
     static var previews: some View {
-        Lection4()
+        Cards()
     }
 }
+
+
+
+
+// CWC iOS 90 days - Lec4
