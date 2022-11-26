@@ -12,7 +12,7 @@ struct UITestApp: App {
     var body: some Scene {
         WindowGroup {
             //ContentView()
-            Buttons()
+            StateProperties()
         }
     }
 }

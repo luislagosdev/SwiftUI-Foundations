@@ -20,7 +20,7 @@ struct Buttons: View {
                     print("Button instance with closure - pressed")
             })
             
-            // Button instace with Trailing closure
+            // Button instance with Trailing closure
             Button("Trailing closure button")
             {    // trailing closure
                 print("Button instace with Trailing closure - tapped")

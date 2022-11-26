@@ -13,6 +13,7 @@
 		F3B90E7A29240C3300C336A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3B90E7929240C3300C336A0 /* Assets.xcassets */; };
 		F3B90E7D29240C3300C336A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3B90E7C29240C3300C336A0 /* Preview Assets.xcassets */; };
 		F3D641332925836900F2FC4A /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D641322925836900F2FC4A /* Cards.swift */; };
+		F3F8F0622931C7A00009A515 /* StateProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3F8F0612931C7A00009A515 /* StateProperties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		F3B90E7929240C3300C336A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3B90E7C29240C3300C336A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F3D641322925836900F2FC4A /* Cards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
+		F3F8F0612931C7A00009A515 /* StateProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateProperties.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F3B90E7729240C3200C336A0 /* ContentView.swift */,
 				F3D641322925836900F2FC4A /* Cards.swift */,
 				F3009F0E2930611600991C39 /* Buttons.swift */,
+				F3F8F0612931C7A00009A515 /* StateProperties.swift */,
 				F3B90E7929240C3300C336A0 /* Assets.xcassets */,
 				F3B90E7B29240C3300C336A0 /* Preview Content */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3D641332925836900F2FC4A /* Cards.swift in Sources */,
+				F3F8F0622931C7A00009A515 /* StateProperties.swift in Sources */,
 				F3B90E7829240C3200C336A0 /* ContentView.swift in Sources */,
 				F3B90E7629240C3200C336A0 /* UITestApp.swift in Sources */,
 				F3009F0F2930611600991C39 /* Buttons.swift in Sources */,
